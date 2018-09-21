@@ -17,7 +17,7 @@
     "Database"
   ],
   "author": "BigBlueHat <byoung@bigbluehat.com>",
-  "license": "MIT",
+  "license": "Apache-2",
   "dependencies": {
     "express": "^4.16.3",
     "express-pouchdb": "^4.0.1",
