@@ -1,0 +1,26 @@
+{
+  "name": "hexa-pouch",
+  "version": "0.1.0",
+  "description": "A tiny little PouchDB hexastore with Triple Pattern Fragments support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PouchDB",
+    "REST",
+    "Linked",
+    "Data",
+    "JSON-LD",
+    "Hexastore",
+    "Graph",
+    "Database"
+  ],
+  "author": "BigBlueHat <byoung@bigbluehat.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-pouchdb": "^4.0.1",
+    "pouchdb": "^7.0.0"
+  }
+}
